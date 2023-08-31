@@ -17,3 +17,8 @@ _I will add a screencast to the zipped folder, so you can visually see how the a
 #### Project structure description:
 
 *   We have `helpers`, `modules`, `components`, `hooks`, `store`, `theme`, `typings` folders at the top level of the `src` folder.  Their names are self-explanatory. Just need to mention that all the content from them is used throughout the whole project. That is why it is at the top level.
+
+
+
+https://github.com/maksym-bezditko/tz-1/assets/130133118/3eddef5e-34d2-4994-bcdd-39313f83d368
+
