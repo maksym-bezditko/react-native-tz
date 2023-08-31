@@ -16,7 +16,7 @@ _I will add a screencast to the zipped folder, so you can visually see how the a
 
 #### Project structure description:
 
-*   We have `helpers`, `modules`, `components`, `hooks`, `store`, `theme`, `typings` folders at the top level of the `src` folder.  Their names are self-explanatory. Just need to mention that all the content from them is used throughout the whole project. That is why it is at the top level.
+*   We have `helpers`, `components`, `views`, `models` folders at the top level of the `src` folder.  Their names are self-explanatory. Just need to mention that all the content from them is used throughout the whole project. That is why it is at the top level.
 
 
 
